@@ -1,0 +1,14 @@
+C:\Users\Betsy\python training\python basic\django\project\kts\2nd round\App2\App2\bin\Debug\netstandard2.0\Intrest calculator.deps.json
+C:\Users\Betsy\python training\python basic\django\project\kts\2nd round\App2\App2\bin\Debug\netstandard2.0\Intrest calculator.dll
+C:\Users\Betsy\python training\python basic\django\project\kts\2nd round\App2\App2\bin\Debug\netstandard2.0\ref\Intrest calculator.dll
+C:\Users\Betsy\python training\python basic\django\project\kts\2nd round\App2\App2\bin\Debug\netstandard2.0\Intrest calculator.pdb
+C:\Users\Betsy\python training\python basic\django\project\kts\2nd round\App2\App2\obj\Debug\netstandard2.0\Intrest calculator.csproj.AssemblyReference.cache
+C:\Users\Betsy\python training\python basic\django\project\kts\2nd round\App2\App2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Betsy\python training\python basic\django\project\kts\2nd round\App2\App2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Betsy\python training\python basic\django\project\kts\2nd round\App2\App2\obj\Debug\netstandard2.0\Intrest calculator.AssemblyInfoInputs.cache
+C:\Users\Betsy\python training\python basic\django\project\kts\2nd round\App2\App2\obj\Debug\netstandard2.0\Intrest calculator.AssemblyInfo.cs
+C:\Users\Betsy\python training\python basic\django\project\kts\2nd round\App2\App2\obj\Debug\netstandard2.0\Intrest calculator.csproj.CoreCompileInputs.cache
+C:\Users\Betsy\python training\python basic\django\project\kts\2nd round\App2\App2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Betsy\python training\python basic\django\project\kts\2nd round\App2\App2\obj\Debug\netstandard2.0\Intrest calculator.dll
+C:\Users\Betsy\python training\python basic\django\project\kts\2nd round\App2\App2\obj\Debug\netstandard2.0\ref\Intrest calculator.dll
+C:\Users\Betsy\python training\python basic\django\project\kts\2nd round\App2\App2\obj\Debug\netstandard2.0\Intrest calculator.pdb
